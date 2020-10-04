@@ -1,4 +1,4 @@
-# ECO_LoL_Overlay_serverless
+# ECO LoL Overlay serverless
 Serverless variant of League of Legends Overlay, used in Broadcasts for League of Legends
 
 ## Usage
