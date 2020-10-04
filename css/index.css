@@ -65,6 +65,22 @@ html, body {
     top: 20px;
     left: 1650px;
   }
+
+#slideshow {
+  position: absolute;
+  top: 962px;
+  left: 0px;
+  width: 304px;
+  height: 118px;
+}
+
+#slideshow > div { 
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
   
   
   @keyframes fadein {

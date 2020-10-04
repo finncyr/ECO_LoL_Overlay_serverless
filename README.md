@@ -14,4 +14,4 @@ Serverless variant of League of Legends Overlay, used in Broadcasts for League o
 *[Season 2]*
 
 - [x] Make Overlay Serverless
-- [ ] Add JS Controled Sponsorbanners in the Bottom-Left field
+- [x] Add JS Controled Sponsorbanners in the Bottom-Left field
