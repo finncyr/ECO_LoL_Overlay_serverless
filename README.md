@@ -8,6 +8,10 @@ Serverless variant of League of Legends Overlay, used in Broadcasts for League o
 - Choose _local file_ and select `index.html` as this file
 - Edit score and Names by doubleclicking on them
 
+**or**
+
+Add https://league-overlay.vercel.app as a browser source to your OBS Studio/XSplit. Edit score and Names by doubleclicking  on them inside the *Interaction* feature of OBS.
+
 
 ### Roadmap
 
