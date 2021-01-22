@@ -1,6 +1,11 @@
 # ECO LoL Overlay serverless
 Serverless variant of League of Legends Overlay, used in Broadcasts for League of Legends
 
+## UNILIGA VERSION
+
+Due to licensing there are multiple versions of this overlay avalaible!
+This is the Version shown in Productions for "Uniliga"!
+
 ## Usage
 
 - Clone this Repo
