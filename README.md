@@ -1,10 +1,12 @@
 # ECO LoL Overlay serverless
-Serverless variant of League of Legends Overlay, used in Broadcasts for League of Legends
+
+Serverless variant of League of Legends Overlay, used in Broadcasts for League
+of Legends
 
 ## UNILIGA VERSION
 
-Due to licensing there are multiple versions of this overlay avalaible!
-This is the Version shown in Productions for "Uniliga"!
+Due to licensing there are multiple versions of this overlay avalaible! This is
+the Version shown in Productions for "Uniliga"!
 
 ## Usage
 
@@ -15,12 +17,13 @@ This is the Version shown in Productions for "Uniliga"!
 
 **or**
 
-Add https://league-overlay.vercel.app as a browser source to your OBS Studio/XSplit. Edit score and Names by doubleclicking  on them inside the *Interaction* feature of OBS.
-
+Add https://league-overlay.vercel.app as a browser source to your OBS
+Studio/XSplit. Edit score and Names by doubleclicking on them inside the
+_Interaction_ feature of OBS.
 
 ### Roadmap
 
-*[Season 2]*
+_[Season 2]_
 
 - [x] Make Overlay Serverless
 - [x] Add JS Controled Sponsorbanners in the Bottom-Left field
