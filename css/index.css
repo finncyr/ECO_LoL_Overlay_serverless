@@ -8,10 +8,10 @@ html, body {
 .Overlay {
     position: relative;
     width: 100%;
-  
+
     /*animation: fadein 2s;*/
   }
-  
+
   .team-left h2{
     color: white;
     font: bold 24px Helvetica;
@@ -22,7 +22,7 @@ html, body {
     width: 130px;
     text-align: center;
   }
-  
+
   .team-left h1{
     color: white;
     font: bold 24px Helvetica;
@@ -34,7 +34,7 @@ html, body {
     width: 32px;
     animation: fadein 0.5s;
   }
-  
+
   .team-right h2{
     color: white;
     font: bold 24px Helvetica;
@@ -45,7 +45,7 @@ html, body {
     width: 130px;
     text-align: center;
   }
-  
+
   .team-right h1{
     color: white;
     font: bold 24px Helvetica;
@@ -57,7 +57,7 @@ html, body {
     width: 32px;
     animation: fadein 0.5s;
   }
-  
+
   .baron-timer{
     width: 200px;
     height: 100px;
@@ -74,20 +74,20 @@ html, body {
   height: 227px;
 }
 
-#slideshow > div { 
+#slideshow > div {
     position: absolute;
     top: 0px;
     left: 0px;
     right: 0px;
     bottom: 0px;
 }
-  
-  
+
+
   @keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
   }
-  
+
   @keyframes flip {
     from { transform: rotateY(0deg);  }
     to   { transform: rotateY(180deg);}
