@@ -24,3 +24,4 @@ Add https://league-overlay.vercel.app as a browser source to your OBS Studio/XSp
 
 - [x] Make Overlay Serverless
 - [x] Add JS Controled Sponsorbanners in the Bottom-Left field
+- [x] Add Prime League Logo

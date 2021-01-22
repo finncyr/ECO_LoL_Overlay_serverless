@@ -18,7 +18,7 @@ html, body {
     font-size: 40px;
     position: absolute;
     top: -23px;
-    left: 439px;
+    left: 471px;
     width: 130px;
     text-align: center;
   }
@@ -26,11 +26,11 @@ html, body {
   .team-left h1{
     color: white;
     font: bold 24px Helvetica;
-    font-size: 56px;
-    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    font-size: 52px;
+    /*text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; */
     position: absolute;
-    top: -23px;
-    left: 353px;
+    top: -33px;
+    left: 407px;
     width: 32px;
     animation: fadein 0.5s;
   }
@@ -41,7 +41,7 @@ html, body {
     font-size: 40px;
     position: absolute;
     top: -23px;
-    left: 1364px;
+    left: 1318px;
     width: 130px;
     text-align: center;
   }
@@ -49,11 +49,11 @@ html, body {
   .team-right h1{
     color: white;
     font: bold 24px Helvetica;
-    font-size: 56px;
-    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    font-size: 52px;
+    /*text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;*/
     position: absolute;
-    top: -23px;
-    left: 1548px;
+    top: -33px;
+    left: 1484px;
     width: 32px;
     animation: fadein 0.5s;
   }
@@ -68,10 +68,10 @@ html, body {
 
 #slideshow {
   position: absolute;
-  top: 962px;
-  left: 0px;
-  width: 304px;
-  height: 118px;
+  top: 849px;
+  left: 4px;
+  width: 306px;
+  height: 227px;
 }
 
 #slideshow > div { 
