@@ -5,6 +5,11 @@ html, body {
     padding: 0;
 }
 
+@font-face {
+  font-family: Akkordeon;
+  src: url("../assets/Akkordeon-DEMO.otf") format("opentype");
+}
+
 .Overlay {
     position: relative;
     width: 100%;
@@ -14,46 +19,46 @@ html, body {
   
   .team-left h2{
     color: white;
-    font: bold 24px Helvetica;
-    font-size: 40px;
+    font: 24px Akkordeon;
+    font-size: 80px;
     position: absolute;
-    top: -23px;
-    left: 471px;
-    width: 130px;
+    top: -79px;
+    left: 480px;
+    width: 128px;
     text-align: center;
   }
   
   .team-left h1{
     color: white;
-    font: bold 24px Helvetica;
-    font-size: 52px;
+    font: 24px Akkordeon;
+    font-size: 40px;
     /*text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; */
     position: absolute;
-    top: -33px;
-    left: 407px;
-    width: 32px;
+    top: -35px;
+    left: 449px;
+    width: 40px;
     animation: fadein 0.5s;
   }
   
   .team-right h2{
-    color: white;
-    font: bold 24px Helvetica;
-    font-size: 40px;
+    color: rgb(230, 36, 64);
+    font: 24px Akkordeon;
+    font-size: 80px;
     position: absolute;
-    top: -23px;
-    left: 1318px;
+    top: -79px;
+    left: 1315px;
     width: 130px;
     text-align: center;
   }
   
   .team-right h1{
-    color: white;
-    font: bold 24px Helvetica;
-    font-size: 52px;
+    color: rgb(230, 36, 64);
+    font: 24px Akkordeon;
+    font-size: 40px;
     /*text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;*/
     position: absolute;
-    top: -33px;
-    left: 1484px;
+    top: -35px;
+    left: 1458px;
     width: 32px;
     animation: fadein 0.5s;
   }
@@ -68,10 +73,10 @@ html, body {
 
 #slideshow {
   position: absolute;
-  top: 849px;
+  top: 825px;
   left: 4px;
-  width: 306px;
-  height: 227px;
+  width: 315px;
+  height: 250px;
 }
 
 #slideshow > div { 
