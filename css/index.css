@@ -23,7 +23,7 @@ html, body {
     font-size: 80px;
     position: absolute;
     top: -79px;
-    left: 480px;
+    left: 360px;
     width: 128px;
     text-align: center;
   }
@@ -35,7 +35,7 @@ html, body {
     /*text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; */
     position: absolute;
     top: -35px;
-    left: 449px;
+    left: 330px;
     width: 40px;
     animation: fadein 0.5s;
   }
@@ -46,7 +46,7 @@ html, body {
     font-size: 80px;
     position: absolute;
     top: -79px;
-    left: 1315px;
+    left: 1445px;
     width: 130px;
     text-align: center;
   }
@@ -58,7 +58,7 @@ html, body {
     /*text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;*/
     position: absolute;
     top: -35px;
-    left: 1458px;
+    left: 1588px;
     width: 32px;
     animation: fadein 0.5s;
   }
